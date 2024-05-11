@@ -1,4 +1,4 @@
-# Complete-google-sql-dorks-2019
+# Complete-google-sql-dorks
 ```
 _news/news.php?id=
 -site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp
